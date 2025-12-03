@@ -44,7 +44,8 @@ dist/
 data/cache/
 data/embeddings/
 data/tmp/
-data/output/
+data/output/*
+!data/output/trajectories.json
 data/result/
 data/index/*.pkl
 data/index/*.csv
